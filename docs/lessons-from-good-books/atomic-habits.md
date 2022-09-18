@@ -159,8 +159,14 @@ Social:
 
 ### Environmental changes I have made so far: 
 
-- Increase height of my computer monitors. Eyes straight, or slightly upward helps improve focus and alertness (and is good for ergonomics.)
+- Increase height of my computer monitors. Eyes straight, or slightly upward helps improve focus and alertness (and is good for ergonomics.) Thanks to Andrew Huberman
+- Added light around my computer monitors to wake me up better and improve focus.
 - Remove clutter in my house. Selling items that are no longer useful. Moving lesser-used items into long-term storage (caching. See [Chapter 4 in Algorithms to Live By](./algorithms-to-live-by#4-caching)
+- Buy healthy food and keep them in convenient locations.
+- Keep unhealthy food in inconvenient locations. 
+- Put the alcohol in a cupboard.
+- Keep my drums clean and accessible.
+- 
 
 ## Chapter 7 - The Secret to Self-Control
 - Avoid temptations that trigger bad habits.  This is the only way to break bad habits.
