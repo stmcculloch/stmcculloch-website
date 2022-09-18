@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Steven\'s site',
   tagline: 'Ideas worth writing down',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://stevenmcculloch.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
