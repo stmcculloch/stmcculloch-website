@@ -1,0 +1,8 @@
+{
+  "label": "Optimize Health",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Get the most health with minimal effort"
+  }
+}
