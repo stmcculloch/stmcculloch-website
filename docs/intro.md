@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+title: 'Introduction'
 ---
 
-# Content Guidelines
+Learn how to optimize everything and make most of your limited time on planet earth.
 
-- Site is public
-- Keep ideas organized
-
+- Automate boring tasks
+- Optimize all aspects of health
+- Use structures and frameworks to logically tackle big decisions

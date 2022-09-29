@@ -39,6 +39,7 @@ If you skip a day of light viewing, that's fine. Just don't skip 2 days in a row
 - Avoid lights. A very dark bedroom is ideal.
 - If possible, sleep next to a window without blinds, so the sun can naturally wake you up.
 - Otherwise, get smart lights on a timer, to turn on at a specific time every morning.
+- Get a weighted blanket. 10% of bodyweight is supposedly optimal. If using a queen size blanket, err on the side of heavier since it isn't as dense.
 
 ## Food
 
