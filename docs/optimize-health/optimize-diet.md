@@ -1,5 +1,5 @@
 ---
-title: "Optimize diet"
+title: "Optimize Diet"
 ---
 
 
