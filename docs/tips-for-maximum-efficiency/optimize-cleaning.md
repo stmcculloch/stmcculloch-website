@@ -40,7 +40,7 @@ Every space in my home should have a default 'resting' state. Everything where i
 
 ### 2. Keeping all spaces relatively tidy
 
-Every space in my home should have a default 'resting' state. Everything where it is supposed to be. When I'm finished using a space, I shall 'reset the room' and put everything back in it's default position. 
+When I'm finished using a space, I shall 'reset the room' and put everything back in it's default position. 
 
 ### 3. Avoid Accumulation of Clutter
 
