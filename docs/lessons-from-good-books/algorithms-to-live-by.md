@@ -4,20 +4,6 @@ sidebar_position: 1
 
 # Algorithms to Live by
 
-- [Algorithms to Live by](#algorithms-to-live-by)
-  - [1. Optimal Stopping](#1-optimal-stopping)
-  - [2. Explore vs. Exploit](#2-explore-vs-exploit)
-  - [3. Sorting](#3-sorting)
-  - [4. Caching](#4-caching)
-  - [5. Scheduling](#5-scheduling)
-  - [6. Bayes Rule](#6-bayes-rule)
-  - [7. Over-fitting](#7-over-fitting)
-  - [8. Relaxation](#8-relaxation)
-  - [9. Randomness](#9-randomness)
-  - [10. Networking](#10-networking)
-  - [11. Game Theory](#11-game-theory)
-  - [Conclusion](#conclusion)
-
 ## 1. Optimal Stopping
 
 :::tip Quote

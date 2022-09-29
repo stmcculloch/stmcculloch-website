@@ -55,10 +55,7 @@ const config = {
       },
       navbar: {
         title: 'Stevens Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+       
         items: [
           {
             type: 'doc',
@@ -75,7 +72,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Content Guidelines',
+                label: 'Home',
                 to: '/docs/intro',
               },
             ],
@@ -86,15 +83,6 @@ const config = {
               {
                 label: 'Efficiency Is Everything',
                 to: 'https://efficiencyiseverything.com/',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
               },
             ],
           },

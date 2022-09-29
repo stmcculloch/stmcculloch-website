@@ -63,12 +63,20 @@ Source: https://examine.com/supplements/fish-oil/
 
 **Drawbacks: **
 - Many fish oil supplements may contain harmful lipid peroxides (oxidized lipids that can damage cells), but it's unclear if this has notable consequences to health.
-- Aftertaste can be annoying
+- Aftertaste can be annoying. (really hasn't been at all noticeable for me)
 
 **Dosage: **
 - The American Heart Association recommends 1g of combined EPA and DHA daily.
 - FDA suggests people take no more than 3g per day.
 - Andrew Huberman recommends 1-3g of EPA per day
+
+:::tip Tip
+
+Don't waste your money on the capsules. Get lemon flavored fish oil. You'll get 2x more per dollar. It doesn't even taste like fish. They do some werid chemistry to get rid of the fish flavor. It really only tastes like mildly sweet lemon syrup.
+
+Also, keep it in the refrigerator. Youshould also refrigertate capsules.
+
+:::
 
 ## Caffeine
 Source: https://examine.com/supplements/caffeine/

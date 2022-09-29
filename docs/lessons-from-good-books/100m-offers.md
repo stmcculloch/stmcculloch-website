@@ -2,15 +2,17 @@
 title: '$100M Offers'
 ---
 
+Author: Alex Hormozi - A rich guy that wears nasal strips
+
 Useful supplementary materials: https://www.acquisition.com/training/offers
 
 "How to make offers so good, people feel stupid for saying no"
 
-## The Offer
+## 1. The Offer
 
 The offer is what attracts customers to your business, and is usually the first point of interaction between them and you. It sets the stage for the rest of their interactions with you. If you can come up with a "Grand Slam Offer" then you should have no problem making at least $100k
 
-## Pricing 
+## 2. Pricing 
 
 If you're not growing, you're falling behind. 
 
@@ -26,7 +28,7 @@ How NOT to grow:
 2. Work in a commodity market where competition is fierce.
 3. Work in a market that is declining (e.g. newspapers)
    
-### Finding the right market
+## 3. Finding the right market
 
 The best way to sell hotdogs is not by having a great location, low pricing, superior quality, or wide variety. It is to sell to a starving crowd. You can sell terrible hot dogs at outrageous prices, but when people are drunk and starving, and you're the only place open at 2 AM, then **you will sell out**. (rough quote from the book)
 
@@ -44,7 +46,7 @@ Example:
 - Sales Course: $19. 
 - Sales Course for Outbound B2B Power Tools and Gardening Equipment Sales Reps: $1999
 
-### Charging what it's worth 
+## 4. Charging what it's worth 
 
 Don't fall into the trap of decreasing price to gain a competitive advantage. 
 
@@ -62,7 +64,7 @@ When you decrease price...
 
 Be more expensive than everyone else, by enough that it causes customers to pause. Your product *must* be in an entirely different category than the competition to justify the price. Consider the wine tasting example. Wine tasters rated higher priced wine as more tasty than cheaper wine. But of course, they were all from the same bottle. Clients get more from higher priced products.
 
-### The Value Equation
+## 5. The Value Equation
 
 Maximize value by considering 4 variables: 
 
@@ -81,11 +83,11 @@ Interesting fact - it is usually easier to focus on the denominator of the value
 
 People value 'fast and easy'
 
-### Divergent Thinking
+## 6. Divergent Thinking
 
 Buisiness is not a math equation. There isn't just one right answer. Think of as many solutions as possible to the same problem, instead of the first one that crosses your mind.
 
-### Creating the Grand Slam Offer - Problems and Solutions
+## 7. Creating the Grand Slam Offer - Problems and Solutions
 
 1. Identify the customer's dream outcome. For example, a car ad that just shows old rich people driving fast with beautiful women, without mentioning any features, safety ratings, etc. 
 2. List problems. All of them. I like to sort them by the 4 value equation categories:
@@ -97,7 +99,7 @@ Buisiness is not a math equation. There isn't just one right answer. Think of as
 4. Create a 'solution delivery vehicle' that solves every problem. People very often get hung up on one unsolved problem, and won't buy because of it.
 5. Trim and Stack. Adding any features should increase the result of the value equation.
 
-### Enhancing Your Offer
+## 8. Enhancing Your Offer
 
 Desire comes from not getting what you want. Would you rather buy a limited time, one of a kind T shirt, or the same T shirt but it is always available?
 

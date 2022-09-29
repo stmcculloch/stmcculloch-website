@@ -11,8 +11,7 @@ This typically involves setting up automations, purchasing items or services,
 
 - Set up automatic bill payments
 - Set up automatic monthly/weekly investment deposits
-- Set up recurring purchases for commonly used items
-
+- Set up recurring purchases for consumables and toiletries
 
 ## Health
 
@@ -32,7 +31,7 @@ This typically involves setting up automations, purchasing items or services,
 - Set up automatic computer backups
 - Get an adblocker ([uBlock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) is the best)
 - Get [sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) to automatically skip sponsored sections of videos.
-- Use the the program "Task Scheduler" built into windows (or get a linux/mac equivalent). It lets you schedule events to occur automatically, either on a schedule, or in response to another event on your computer such as logging on, or if the computer is idle for more than XX minutes. Here are some ideas:
+- Use the the program "Task Scheduler" built into windows (or get a linux/mac equivalent). It lets you schedule events to occur automatically, either on a schedule, or in response to another event on your computer such as logging on, or if the computer is idle for more than XX minutes. There are probably more user friendly 3rd party applications if it seems a bit scary. Anyway, here are some ideas:
   - Automatically enable a screen dimmer program at 9 PM
   - Automatically put the computer to sleep at 11:30 PM
 

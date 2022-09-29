@@ -8,4 +8,5 @@ title: 'Useful Websites'
 
 ## Efficiency
 
-- Efficiency is Everything
+- Process engineering applied to everyday life. I highly recommend browsing it: https://efficiencyiseverything.com/
+  - This article is particularly good: https://efficiencyiseverything.com/save-21-hours-per-week-eliminating-bad-habits/
