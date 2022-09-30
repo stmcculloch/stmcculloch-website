@@ -12,7 +12,7 @@ Acute stress improves cognitive performance. At least 1 hour or more of focus bo
 
 ## 40 Hz Binaural Beats
 
-Two sine waves, one slightly different frequency to the other. For some reason, the brain likes this.
+Two sine waves, one slightly different frequency to the other. For some reason, the brain likes this. Start listening 30 minutes before focus session.
 
 ## Supplements
 

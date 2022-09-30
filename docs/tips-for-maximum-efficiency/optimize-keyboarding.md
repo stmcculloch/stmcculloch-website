@@ -3,7 +3,7 @@ title: 'Optimize Keyboarding'
 ---
 
 
-## Hotkeys You'll Use Every Day (Windows)
+## Hotkeys I Use Every Day (Windows)
 
 ### Re-open closed tab on Chrome
 
@@ -19,7 +19,31 @@ Hotkey: Windows + Shift + S
 
 Drag a box around the place you want to screenshot. It's saved to your clipboard, so you can just paste it anywhere.
 
-## Tips and Tricks
+### Manage Windows
+
+Hotkey: Alt + Tab (Alt + Shift + Tab to reverse direction)
+
+Use this to quickly swap to a different application without moving your mouse.
+
+### Manage Tabs
+
+Hotkey: Ctrl + Tab (Ctrl + Shift + Tab to reverse direction)
+
+Use this to quickly swap to a different Chrome browser tab without moving your mouse.
+
+### Close Window
+
+Hotkey: Ctrl + W
+
+Closes the current window. While using Chrome, it closes the current tab.
+
+## Put the Computer To Sleep
+
+Hotkey combo: (Windows + X), let go, (U), let go, (S).
+
+Puts the (Windows) computer to sleep. Very helpful for when you want to turn the computer off, but don't want to turn the monitor on, ruining your night vision.
+
+## Misc Tips and Tricks
 
 ### Right Side Enter Key
 
