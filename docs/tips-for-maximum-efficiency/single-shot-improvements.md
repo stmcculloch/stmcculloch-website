@@ -12,6 +12,7 @@ This typically involves setting up automations, purchasing items or services,
 - Set up automatic bill payments
 - Set up automatic monthly/weekly investment deposits
 - Set up recurring purchases for consumables and toiletries
+- Create a source of passive income
 
 ## Health
 

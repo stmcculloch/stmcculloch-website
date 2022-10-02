@@ -19,7 +19,9 @@ It seems to be much easier to add things to your life than to remove things from
 - Video games
 - Browsing Reddit
 
-The best way to remove activities is to make them inconvenient and unsatisfying.
+You might also have to make some tough decisions. For me that was chess. At one point, I was spending over 1 hour every day playing chess, watching chess videos, thinking about chess, even studying chess. I was also pretty good at chess, and my natural instinct was to become even better. But taking a step back, I realized that I don't need to be better at chess. Chess doesn't matter, it's just a game. So I no longer play chess, as it just wastes time, and in most cases it just stresses me out.
+
+The best way to remove activities is to make them inconvenient and unsatisfying. I'm using [BlockSite](https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh) to prevent myself from playing chess. Speaking of making things unsatisfying...
 
 ## Make Your Phone Boring
 

@@ -46,3 +46,11 @@ When I'm finished using a space, I shall 'reset the room' and put everything bac
 
 Sorting objects gets harder the more objects there are. Therefore, decluttering is made easier when there is less to declutter. Every evening, I 'reset the house' and make sure I haven't missed any tidying up during the day. 
 
+## 4. Buy Shampoo (And Other Products) 12x Less Frequently
+
+
+Save 2X : Buy the largest bottles so you don't need to buy as often. The largest bottles are typically 800 ml, which is 2x larger than normal size ones. 
+
+Save 2X or more: Buy in twin packs or combo packs. This is only helpful if you have room to store the bottles, and know that you'll use an it all up eventually.
+
+Save 3X: I would guesstimate that the average person uses at least 3x more shampoo than necessary, squirting huge handfuls of shampoo wastefully away! That means they spend 3X more on shampoo each year than I do. Not only do you spend less, more importantly, you don't have to replace the soap less often!
