@@ -43,5 +43,10 @@ For Youtube, I highly recommend a [chrome extension called Unhook](https://chrom
 
 For any social media apps that survive the purge, I recommend cleansing them. Unsubscribe from old or irrelevant Youtube channels, unsubscribe from dumb and silly subreddits, delete Facebook friends you don't know. Spend at least 1 full hour cleansing each social media app. It's a drop in the bucket compared to how much time you'll waste sifting through irrelevent content. While you're at it, go through your email and unsubscribe from all the newsletters you didn't sign up for.
 
+## Reduce Other Distractions Online
+
+[I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) Never get bothered by the constant request for you to accept cookies. This extension blocks or hides the popup when possible, and when unavoidable, clicks 'accept' for you.
+
+
 
 

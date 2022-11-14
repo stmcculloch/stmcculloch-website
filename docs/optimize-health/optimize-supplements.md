@@ -5,9 +5,9 @@ sidebar_position: 3
 
 Supplements can be great, but they won't be as effective as good sleep, diet, exercise, and other positive habits. Think of them as the 'cherry on top', rather than a 'shortcut' or a 'hack'.
 
-# Muscle building
+## Muscle building
 
-## Creatine
+### Creatine
 Source: https://examine.com/supplements/creatine/
 
 **Benefits: **
@@ -24,11 +24,11 @@ Source: https://examine.com/supplements/creatine/
 - Maintenance phase: 0.03g per kg of bodyweight per day, indefinitely
 - For a 180 lb (82 kg) person, this translates to 25 g/day during the loading phase and 2.5 g/day afterward
 
-## Electrolytes
+### Electrolytes
 
 
 
-## Baking soda (Sodium bicarbonate)
+### Baking soda (Sodium bicarbonate)
 Source: https://examine.com/supplements/sodium-bicarbonate/
 
 Source: https://www.healthline.com/nutrition/baking-soda-and-performance
@@ -51,9 +51,9 @@ Source: https://www.healthline.com/nutrition/baking-soda-and-performance
 - Bicarbonate should be sipped slowly over a period of a few minutes with a moderate amount of water (500 mL)
 
 
-# Mental health
+## Mental health
 
-## Omega 3 (Fish oil)
+### Omega 3 (Fish oil)
 Source: https://examine.com/supplements/fish-oil/
 
 **Benefits: **
@@ -78,7 +78,7 @@ Also, keep it in the refrigerator. Youshould also refrigertate capsules.
 
 :::
 
-## Caffeine
+### Caffeine
 Source: https://examine.com/supplements/caffeine/
 
 **Benefits: **
@@ -92,7 +92,7 @@ Source: https://examine.com/supplements/caffeine/
 - 100-200 mg is recommended.
 - 300-400 mg will make me feel 'wired'. Not a particularly nice feeling, but it does help if there's a lot of work that needs to be done. 
 
-## L Tyrosine 
+### L Tyrosine 
 Source: https://examine.com/supplements/l-tyrosine/
 
 **Benefits: **
@@ -106,7 +106,7 @@ Source: https://examine.com/supplements/l-tyrosine/
 - 500-2000mg, approximately 30-60 minutes before acute stressors
 - Maximum recommended dose: 150 mg/kg of bodyweight
 
-## Alpha GPC: 
+### Alpha GPC: 
 Source: https://examine.com/supplements/alpha-gpc/
 
 **Benefits: **
@@ -124,7 +124,7 @@ Source: https://examine.com/supplements/alpha-gpc/
 - For attenuating symptoms of cognitive decline, almost all studies used a dosage of 1,200 mg per day, divided into three doses of 400 mg.
 
 
-## Ashwagandha: 
+### Ashwagandha: 
 Source: https://examine.com/supplements/ashwagandha/
 
 **Benefits: **
@@ -141,7 +141,7 @@ Source: https://examine.com/supplements/ashwagandha/
 **Dosage: **
 - The most common dosing protocol is 600 mg/day divided into two doses, with one taken in the morning with breakfast and the other in the evening.
 
-# Longevity
+## Longevity
 
 ## Beta-alanine
 Source: https://examine.com/supplements/beta-alanine/ 
@@ -158,7 +158,7 @@ Source: https://examine.com/supplements/beta-alanine/
 **Dosage: **
 - Studies have investigated a range of 3.2–6.4 grams per day of beta-alanine.[116] To avoid paraesthesia, a dose of 0.8-1.6 grams of beta-alanine every 3-4 hours is recommended. 
 
-# Template: 
+## Template: 
 Source: 
 
 **Benefits: **

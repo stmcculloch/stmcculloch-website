@@ -35,6 +35,25 @@ This typically involves setting up automations, purchasing items or services,
 - Use the the program "Task Scheduler" built into windows (or get a linux/mac equivalent). It lets you schedule events to occur automatically, either on a schedule, or in response to another event on your computer such as logging on, or if the computer is idle for more than XX minutes. There are probably more user friendly 3rd party applications if it seems a bit scary. Anyway, here are some ideas:
   - Automatically enable a screen dimmer program at 9 PM
   - Automatically put the computer to sleep at 11:30 PM
+  - 
+## Free Virtual Assistants
+
+Make your computer do things for you
+
+[Tabby](https://chrome.google.com/webstore/detail/tabby/bloclegocjpjjaandifppeocigahekjg?hl=en) - Closes unused browser tabs automatically
+- Designed to keep a about 5 tabs open at one time.
+
+[DropIt](http://www.dropitproject.com/) - Powerful, free, open source file management & automation software. 
+- Automatically unzip files when downloaded, and then delete zip file automatically.
+- Automatically move and sort files as soon as they are downloaded
+- Delete files that haven't been opened for X days
+- Scan folders for old files to delete.
+
+[Everything](https://www.voidtools.com/): Search every file on your entire computer instantaneously. Don't even try using default Windows search, it is very slow compared to Everything.
+
+[TreeFileSize](https://www.jam-software.com/treesize_free) - Shows you the largest files on your device, and which folders contain the most data. Easily lets you locate and delete large and unnecessary files.
+
+
 
 
 ## Home
